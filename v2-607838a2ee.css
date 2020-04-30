@@ -337,7 +337,7 @@ nav .user-info li a:hover {
 .loading {
  position:relative;
  display:block;
- background:url(https://app-meta.hoverfree.com/build/img/loading2.gif);
+ background:url(https://cdn.jsdelivr.net/gh/img-url/file/loading2.gif);
  background-position:50%;
  background-repeat:no-repeat
 }
